@@ -60,4 +60,26 @@ http://www.facebook.com
 
 `http://www.facebook.com`
 
+# markdown link syntex  
+
+[Facebook](http://www.facebook.com)  
+[Facebook][fblink]
+
+# images  
+
+<img src="./images/b.png" width="600" title="Fuck" />  
+
+![Random](./images/Screenshot%20from%202022-09-01%2018-28-37.png)
+
+
+# table  
+
+| Name | email |  
+|-----------|------------|
+|Md Ahsanul Hasan Rifat| hdjnjhdfjdfhj@gmail.com|
+|Topu|hfgjhfgfhjfurfdlefoief@gmail.com
+
+
+
+[fblink]: http://www.facebook.com
 

@@ -67,7 +67,7 @@ http://www.facebook.com
 
 # images  
 
-<img src="./images/b.png" width="600" title="Fuck" />  
+<img src="./images/b.PNG" width="600" title="Fuck" />  
 
 ![Random](./images/Screenshot%20from%202022-09-01%2018-28-37.png)
 
